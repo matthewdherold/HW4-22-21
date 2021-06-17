@@ -19,7 +19,7 @@ A deployed web app that allows users to submit workout plans to a database, and 
 <img src="/demo/screenshot.png" alt="application demo">
 
 ## Installation
-Navigate to deployed link, if you wish to modify the code you can clone the project repository, run npm i, followed by "npm run seed", then "npm start". You may then navigate to the local deployment in your browser.
+Navigate to deployed link, if you wish to modify the code you can clone the project repository, run "npm i", followed by "npm run seed", then "npm start". You may then navigate to the local deployment in your browser.
 
 ## Usage
 From the dashboard you may select the option to add to your last workout or to create a new workout. You will then be prompted to fill out information about that workout. When you press save the workout will be stored in a database which can be accessed from the dashboard to view stats about your workouts from the past 7 days.
